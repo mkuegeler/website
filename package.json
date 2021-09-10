@@ -11,7 +11,7 @@
     "express",
     "bootstrap"
   ],
-  "author": "",
+  "author": "mkuegeler@gmail.com",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"

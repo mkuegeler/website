@@ -1,0 +1,25 @@
+<svg id="w1ME8xC-" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2362 1005"
+    height="100%" width="100%" style="background-color:#cccccc;" preserveAspectRatio="xMidYMid meet">
+    <style>
+        rect.canvas {
+            stroke-width: 1;
+            stroke: #000000;
+            fill: url(#radredgreen);
+            visibility: visible;
+        }
+    </style>
+    <defs>
+        <radialGradient id="radredgreen" fx="5%" fy="5%" r="45%">
+            <stop offset="0%" stop-color="#ccff00" stop-opacity="1"></stop>
+            <stop offset="100%" stop-color="#00ff00" stop-opacity="1"></stop>
+        </radialGradient>
+    </defs>
+    <g id="main">
+
+        <g id="0">
+            <g class="canvas">
+                <rect x="0" y="0" width="2362" height="1005" class="canvas"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
